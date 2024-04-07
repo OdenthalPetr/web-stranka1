@@ -1,0 +1,10 @@
+.bg-white {
+    background-color: orange;
+}
+.product{
+
+    display: flex;
+    justify-content: space-evenly;
+    
+    }
+    
